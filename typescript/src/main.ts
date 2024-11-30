@@ -2,7 +2,7 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import "./tutorial/526 - Type Alias and Intersection Type.ts"
+import "./tutorial//530 - Type Assertion Type Unknown and Type Never.ts"
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
