@@ -1,12 +1,9 @@
-import Component from "./starter/02-props";
+import Component from "./starter/06-context";
 
 function App() {
   return (
     <main>
-      <Component name='peter' id={123} >
-        <p>hi, peter</p>
-      </Component>
-      <Component name='bibash' id={456} />
+      <Component />
     </main>
   );
 }
