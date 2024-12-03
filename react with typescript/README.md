@@ -1,3 +1,9 @@
+My name is Bibash Chaudhary. 
+Address: kalanki , Kathmandu
+
+
+
+
 This GitHub project provides a comprehensive guide to integrating TypeScript with React. It covers initial setup using vite and TypeScript, demonstrates various React & TypeScript concepts through clear examples, and delves into more advanced topics. Key aspects include:
 
 - Component Structure and TypeScript Integration: Explains how to correctly type React components, manage return types, and handle potential TypeScript errors.
